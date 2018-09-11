@@ -1,0 +1,35 @@
+/* ===== MAIN.CSS goes here ===== */
+
+body {
+  background-color: black;
+  color: rgba(255, 255, 255, 0.8);
+}
+
+#landing {
+  height: 100vh;
+  background-image: url("http://stripedbgs.com/create88591b4.png?c1=D05A3E&c2=470E00&c3=C72600&c4=471F15&c5=941C00&res=1280x960");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  z-index: -1;
+}
+
+#mainText {
+  margin-top: 30vh;
+}
+
+#intro {
+  margin-top: 50px;
+}
+
+#work {
+  background-color: rgb(61, 61, 61);
+}
+
+#p1 {
+  height: 350px;
+}
+#foot {
+  background-image: url("http://stripedbgs.com/create88591b4.png?c1=D05A3E&c2=470E00&c3=C72600&c4=471F15&c5=941C00&res=1280x960");
+}
