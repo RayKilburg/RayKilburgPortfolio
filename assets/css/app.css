@@ -25,6 +25,7 @@ body {
 
 #work {
   background-color: rgb(61, 61, 61);
+  height: 800px;
 }
 
 #p1 {
@@ -34,5 +35,8 @@ body {
   background-image: url("../img/low_contrast_linen_@2X.png");
 }
 #workimg {
-  height: 380px;
+  height: 300px;
+}
+#workcontainer {
+  margin-top: 100px;
 }
